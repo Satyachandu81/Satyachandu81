@@ -23,7 +23,7 @@
             </ul>  
             <div class="header-content">
                 <h4 class="header-subtitle" >Hello, I am</h4>
-                <h1 class="header-title">Ajay Rahul </h1>
+                <h1 class="header-title">Satya Chandu </h1>
                 <h6 class="header-mono" > Civil Engineer | Interral Designer | Frond end Designer  </h6>
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button>
             </div>
@@ -49,8 +49,8 @@
                 <ul class="navbar-nav brand">
                     <img src="assets/imgs/avatar.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
-                        <h5 class="brand-title">Ajay Rahul </h5>
-                        <div class="brand-subtitle">Civil Engineer | Interior Designer | Frond end Designer</div>
+                        <h5 class="brand-title">Satya Chandu </h5>
+                        <div class="brand-subtitle">Civil Engineer |Cad designer | Frond end Designer</div>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
@@ -72,7 +72,7 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Who am I ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">Civil Engineer / Interior Designer In Our Lovely Earth</h5>
+                <h5 class="mb-3">Civil Engineer / Cad Designer In Our Lovely Earth</h5>
                 <p class="mt-20">I am a versatile professional, skilled in both Civil Engineering and Interior Design. With a strong foundation in Civil Engineering, I have expertise in structural analysis, project management, and construction oversight. Simultaneously, my passion for design led me to excel in Interior Design, where I bring creativity and functionality together to transform spaces. I specialize in creating aesthetically pleasing and functional environments for residential and commercial projects. My goal is to create spaces that not only meet structural integrity but also inspire and enhance the overall human experience within them.</p>
                 <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Download My CV</button>
             </div>
@@ -80,16 +80,15 @@
                 <h3 class="font-weight-light">Personal Info</h3>
                 <span class="line mb-5"></span>
                 <ul class="mt40 info list-unstyled">
-                    <li><span>Birthdate</span> : 05/13/2001</li>
-                    <li><span>Email</span> : rahulajay194@gmail.com</li>
-                    <li><span>Phone</span> : 91+ 9502495061</li>
-                    <li><span>Skype</span> : live:rahulajay194 </li>
-                    <li><span>Address</span> :  7-71-21,kondaluPeta,Kakinada,Kakinada District,Andhra Pradesh,India.</li>
+                    <li><span>Birthdate</span> : 09/23/2002</li>
+                    <li><span>Email</span> : bsatyachandu2002@gmail.com</li>
+                    <li><span>Phone</span> : 91+ 9866792272</li>
+                    <li><span>Address</span> :  24-04-21/11,Dharmagundam street,Mandapeta,East Godavari District,Andhra Pradesh,India.</li>
                 </ul>
                 <ul class="social-icons pt-3">
-                    <li class="social-item"><a class="social-link" href="https://www.facebook.com/ajayrahul.chokka?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="https://twitter.com/Rahulajk13?t=srICmtdIRYIz-tqNU1ulhA&s=09"><i class="ti-twitter" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="https://instagram.com/rahul_ajk_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.facebook.com/satyachandu?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
+</i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://instagram.com/satyachandu_81_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a class="social-link text-light" href="https://github.com/rahulajk"><i class="ti-github" aria-hidden="true"></i></a></li>
                 </ul>  
             </div>
