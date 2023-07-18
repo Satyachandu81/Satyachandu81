@@ -141,9 +141,9 @@ hidden="true"></i></a></li>
                             <P>Cad Designer I</P>
                             <P class="subtitle">Playing a vital role in an architecture firm, specializing in interior design, where I actively contributed to the conceptualization and execution of captivating interior spaces for residential and commercial projects, incorporating innovative design solutions and creating unique user experiences.!.</P>
                             <hr>
-                            <h6 class="title text-danger">2019 - 2021</h6>
-                            <P> Intran In Architecture Office </P>
-                            <P class="subtitle">Worked in an esteemed architecture firm, collaborating with a diverse team on high-profile projects, gaining hands-on experience in architectural design, 3D modeling, and construction documentation.!.</P>
+                            <h6 class="title text-danger">2020 - 2021</h6>
+                            <P> Intran In muncipal Office </P>
+                            <P class="subtitle">Worked in an esteemed surveyor, collaborating with a diverse team on high-profile projects, gaining hands-on experience in consturction buildngs, water treatment plant, and construction documentation.!.</P>
                             
                         </div>
                     </div>
