@@ -138,7 +138,7 @@ hidden="true"></i></a></li>
                         </div>
                         <div class="card-body">
                             <h6 class="title text-danger">2021 - Present</h6>
-                            <P>Interior DESIGNER I</P>
+                            <P>Cad Designer I</P>
                             <P class="subtitle">Playing a vital role in an architecture firm, specializing in interior design, where I actively contributed to the conceptualization and execution of captivating interior spaces for residential and commercial projects, incorporating innovative design solutions and creating unique user experiences.!.</P>
                             <hr>
                             <h6 class="title text-danger">2019 - 2021</h6>
@@ -162,12 +162,12 @@ hidden="true"></i></a></li>
                             <P class="subtitle">Currently pursuing a B.Tech degree in Civil Engineering, In Kits Ramachandrapuram Collage, I am in my the 3rd year,I am focused on structural analysis, transportation engineering, and construction management, while gaining practical experience through internships and hands-on projects.</P>
                             <hr>
                             <h6 class="title text-danger">2017 - 2020</h6>
-                            <P>Diploma in Architectural Assistantship</P>
-                            <P class="subtitle">Successfully completed a comprehensive Diploma in Architectural Assistantship, In Andhra Polythic collage, with GPA of 7.5</P>
+                            <P>Diploma in Civil ENGINEERING</P>
+                            <P class="subtitle">Successfully completed a comprehensive Diploma in Civil engineering, In Kits Engineering collage, with GPA of 7.5</P>
                             <hr>
                             <h6 class="title text-danger">2007 - 2017</h6>
                             <P>School Degree</P>
-                            <P class="subtitle">Successfully completed a academic studies in SCC Borad school, In Sri Kanth E.M School, with GPA of 8.8</P>
+                            <P class="subtitle">Successfully completed a academic studies in SCC Borad school, In Sri Santhi School, with GPA of 9.5</P>
                             
                         </div>
                     </div>
