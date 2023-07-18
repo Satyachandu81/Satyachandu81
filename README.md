@@ -73,7 +73,7 @@ hidden="true"></i></a></li>
                 <h3 class="font-weight-light">Who am I ?</h3>
                 <span class="line mb-5"></span>
                 <h5 class="mb-3">Civil Engineer / Cad Designer In Our Lovely Earth</h5>
-                <p class="mt-20">I am a versatile professional, skilled in both Civil Engineering and Interior Design. With a strong foundation in Civil Engineering, I have expertise in structural analysis, project management, and construction oversight. Simultaneously, my passion for design led me to excel in Interior Design, where I bring creativity and functionality together to transform spaces. I specialize in creating aesthetically pleasing and functional environments for residential and commercial projects. My goal is to create spaces that not only meet structural integrity but also inspire and enhance the overall human experience within them.</p>
+                <p class="mt-20">I am a versatile professional, skilled in both Civil Engineering and cad Design. With a strong foundation in Civil Engineering, I have expertise in structural analysis, project management, and construction oversight. Simultaneously, my passion for design led me to excel in Interior Design, where I bring creativity and functionality together to transform spaces. I specialize in creating aesthetically pleasing and functional environments for residential and commercial projects. My goal is to create spaces that not only meet structural integrity but also inspire and enhance the overall human experience within them.</p>
                 <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Download My CV</button>
             </div>
             <div class="col-lg-4 about-card">
@@ -115,7 +115,7 @@ hidden="true"></i></a></li>
                     <div class="col-1 text-danger pt-1"><i class="ti-stats-up icon-lg"></i></div>
                     <div class="col-10 ml-auto mr-3">
                         <h6>Technical Knowledge</h6>
-                        <p class="subtitle">I excel in project management, collaborating with clients, architects, contractors, and other stakeholders to ensure seamless coordination and successful execution of projects. I have excellent communication skills, allowing me to effectively translate clients' visions into tangible design solutions. </p>
+                        <p class="subtitle">I excel in project management, collaborating with clients, infrastructure, contractors, and other stakeholders to ensure seamless coordination and successful execution of projects. I have excellent communication skills, allowing me to effectively translate clients' visions into tangible design solutions. </p>
                         <hr>
                     </div>
                 </div>
@@ -139,11 +139,11 @@ hidden="true"></i></a></li>
                         <div class="card-body">
                             <h6 class="title text-danger">2021 - Present</h6>
                             <P>Cad Designer I</P>
-                            <P class="subtitle">Playing a vital role in an architecture firm, specializing in interior design, where I actively contributed to the conceptualization and execution of captivating interior spaces for residential and commercial projects, incorporating innovative design solutions and creating unique user experiences.!.</P>
+                            <P class="subtitle">Playing a vital role in an construction building, specializing in interior design, where I actively contributed to the conceptualization and execution of captivating interior spaces for residential and commercial projects, incorporating innovative design solutions and creating unique user experiences.!.</P>
                             <hr>
                             <h6 class="title text-danger">2020 - 2021</h6>
                             <P> Intran In muncipal Office </P>
-                            <P class="subtitle">Worked in an esteemed surveyor, collaborating with a diverse team on high-profile projects, gaining hands-on experience in consturction buildngs, water treatment plant, and construction documentation.!.</P>
+                            <P class="subtitle">Worked in an esteemed surveyor, collaborating with a diverse team on high-profile projects, gaining hands-on experience in consturction buildngs,treat water treatment plant, and construction documentation.!.</P>
                             
                         </div>
                     </div>
@@ -165,7 +165,7 @@ hidden="true"></i></a></li>
                             <P>Diploma in Civil ENGINEERING</P>
                             <P class="subtitle">Successfully completed a comprehensive Diploma in Civil engineering, In Kits Engineering collage, with GPA of 7.5</P>
                             <hr>
-                            <h6 class="title text-danger">2007 - 2017</h6>
+                            <h6 class="title text-danger">2008 - 2018</h6>
                             <P>School Degree</P>
                             <P class="subtitle">Successfully completed a academic studies in SCC Borad school, In Sri Santhi School, with GPA of 9.5</P>
                             
