@@ -24,7 +24,7 @@ hidden="true"></i></a></li>
             <div class="header-content">
                 <h4 class="header-subtitle" >Hello, I am</h4>
                 <h1 class="header-title">Satya Chandu </h1>
-                <h6 class="header-mono" > Civil Engineer | Interral Designer | Frond end Designer  </h6>
+                <h6 class="header-mono" > Civil Engineer | Cad Designer | Frond end Designer  </h6>
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button>
             </div>
         </div>
