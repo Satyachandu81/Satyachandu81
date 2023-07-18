@@ -53,7 +53,7 @@ hidden="true"></i></a></li>
                         <div class="brand-subtitle">Civil Engineer |Cad designer | Frond end Designer</div>
                     </li>
                 </ul>
-                <ul class="navbar-nav ml-auto">
+                <ul class="navbar-nav ml-auto"
                     <li class="nav-item">
                         <a href="#portfolio" class="nav-link">Portfolio</a>
                     </li>
