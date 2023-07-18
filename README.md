@@ -16,9 +16,9 @@
     <header class="header">
         <div class="container">
             <ul class="social-icons pt-3">
-                <li class="social-item"><a class="social-link text-light" href="https://www.facebook.com/ajayrahul.chokka?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="https://twitter.com/Rahulajk13?t=srICmtdIRYIz-tqNU1ulhA&s=09"><i class="ti-twitter" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="https://instagram.com/rahul_ajk_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://www.facebook.com/satyachandu?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
+hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://instagram.com/satyachandu81_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="https://github.com/satyachandu81"><i class="ti-github" aria-hidden="true"></i></a></li>
             </ul>  
             <div class="header-content">
