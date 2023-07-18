@@ -574,7 +574,7 @@ hidden="true"></i></a></li>
                                 <i class="ti-mobile icon-md"></i>
                             </div>
                             <div class="col-10 ">
-                                <h6 class="d-inline">Phone : <br> <span class="text-muted">91+ 9502495061 </span></h6>
+                                <h6 class="d-inline">Phone : <br> <span class="text-muted">91+ 9866792272 </span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
@@ -582,7 +582,7 @@ hidden="true"></i></a></li>
                                 <i class="ti-map-alt icon-md"></i>
                             </div>
                             <div class="col-10">
-                                <h6 class="d-inline">Address :<br> <span class="text-muted">7-71-21,kondaluPeta,Kakinada,Kakinada District,Andhra Pradesh,India.</span></h6>
+                                <h6 class="d-inline">Address :<br> <span class="text-muted">24-04-21/11,dharmagundamstreet mandapeta,East godavari District,Andhra Pradesh,India.</span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
@@ -590,14 +590,14 @@ hidden="true"></i></a></li>
                                 <i class="ti-envelope icon-md"></i>
                             </div>
                             <div class="col-10">
-                                <h6 class="d-inline">Email :<br> <span class="text-muted"> rahulajay194@gmail.com </span></h6>
+                                <h6 class="d-inline">Email :<br> <span class="text-muted"> bsatyachandu2002@gmail.com </span></h6>
                             </div>
                         </div>
                         <ul class="social-icons pt-4">
-                            <li class="social-item"><a class="social-link text-dark" href="https://www.facebook.com/ajayrahul.chokka?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
-                            <li class="social-item"><a class="social-link text-dark" href="https://twitter.com/Rahulajk13?t=srICmtdIRYIz-tqNU1ulhA&s=09"><i class="ti-twitter" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://www.facebook.com/satya chandu?mibextid=ZbWKwL"><i class="ti-facebook" aria-hid
+aria-hidden="true"></i></a></li>
                             <li class="social-item"><a class="social-link text-dark" href="https://instagram.com/rahul_ajk_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
-                            <li class="social-item"><a class="social-link text-dark" href="https://github.com/rahulajk"><i class="ti-github" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://github.com/Satyachandu81"><i class="ti-github" aria-hidden="true"></i></a></li>
                         </ul> 
                     </div>
                 </div>
