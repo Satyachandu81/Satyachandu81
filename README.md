@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
 
-	<link rel="stylesheet" href="assets/css/ajayrahul.css">
+	<link rel="stylesheet" href="assets/css/satyachandu.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
@@ -19,7 +19,7 @@
                 <li class="social-item"><a class="social-link text-light" href="https://www.facebook.com/ajayrahul.chokka?mibextid=ZbWKwL"><i class="ti-facebook" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="https://twitter.com/Rahulajk13?t=srICmtdIRYIz-tqNU1ulhA&s=09"><i class="ti-twitter" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="https://instagram.com/rahul_ajk_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="https://github.com/rahulajk"><i class="ti-github" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://github.com/satyachandu81"><i class="ti-github" aria-hidden="true"></i></a></li>
             </ul>  
             <div class="header-content">
                 <h4 class="header-subtitle" >Hello, I am</h4>
