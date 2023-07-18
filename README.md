@@ -159,15 +159,15 @@ hidden="true"></i></a></li>
                         <div class="card-body">
                             <h6 class="title text-danger">2021 - Present</h6>
                             <P>B.Tech Civil Engineering</P>
-                            <P class="subtitle">Currently pursuing a B.Tech degree in Civil Engineering, In Kits Ramachandrapuram Collage, I am in my the 3rd year,I am focused on structural analysis, transportation engineering, and construction management, while gaining practical experience through internships and hands-on projects.</P>
+                            <P class="subtitle">Currently pursuing a B.Tech degree in Civil Engineering, In Kits Ramachandrapuram Collage, I am in my the 3rd year,I am focused on structural analysis, transportation engineering, and construction management,Design drawing and steel structure while gaining practical experience through internships and hands-on projects.</P>
                             <hr>
-                            <h6 class="title text-danger">2017 - 2020</h6>
+                            <h6 class="title text-danger">2018 - 2021</h6>
                             <P>Diploma in Civil ENGINEERING</P>
                             <P class="subtitle">Successfully completed a comprehensive Diploma in Civil engineering, In Kits Engineering collage, with GPA of 7.5</P>
                             <hr>
                             <h6 class="title text-danger">2008 - 2018</h6>
                             <P>School Degree</P>
-                            <P class="subtitle">Successfully completed a academic studies in SCC Borad school, In Sri Santhi School, with GPA of 9.5</P>
+                            <P class="subtitle">Successfully completed a academic studies in SCC Borad school, In Sri Santhi high School, with GPA of 9.5</P>
                             
                         </div>
                     </div>
@@ -582,7 +582,7 @@ hidden="true"></i></a></li>
                                 <i class="ti-map-alt icon-md"></i>
                             </div>
                             <div class="col-10">
-                                <h6 class="d-inline">Address :<br> <span class="text-muted">24-04-21/11,dharmagundamstreet mandapeta,East godavari District,Andhra Pradesh,India.</span></h6>
+                                <h6 class="d-inline">Address :<br> <span class="text-muted">24-04-21/11,dharmagundam street mandapeta,East godavari District,Andhra Pradesh,India.</span></h6>
                             </div>
                         </div>
                         <div class="row mb-2">
@@ -596,7 +596,7 @@ hidden="true"></i></a></li>
                         <ul class="social-icons pt-4">
                             <li class="social-item"><a class="social-link text-dark" href="https://www.facebook.com/satya chandu?mibextid=ZbWKwL"><i class="ti-facebook" aria-hid
 aria-hidden="true"></i></a></li>
-                            <li class="social-item"><a class="social-link text-dark" href="https://instagram.com/rahul_ajk_?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://instagram.com/satyachandu81?igshid=MzNlNGNkZWQ4Mg=="><i class="ti-instagram" aria-hidden="true"></i></a></li>
                             <li class="social-item"><a class="social-link text-dark" href="https://github.com/Satyachandu81"><i class="ti-github" aria-hidden="true"></i></a></li>
                         </ul> 
                     </div>
